@@ -8,5 +8,5 @@ hello
 hello
 hello
 hello
-hello
+hello master-merge
 hello
